@@ -2,7 +2,7 @@
 
 The Official Welcome Home Website: https://welcomehomerestorationproject.net/
 
-This is an attempt at borrowing the good ideas used for [The Unofficial Homestuck Collection](https://homestuck.giovanh.com/unofficial-homestuck-collection/) as a basis for rebuilding the Welcome Home websites as they where at the time of each update. This is a fan-made effort to help those coming in late catch up with the story or to help review the story as it was for a refresher at their leisure.
+This is an attempt at borrowing the good ideas used for [The Unofficial Homestuck Collection](https://homestuck.giovanh.com/unofficial-homestuck-collection/) as a basis for rebuilding the Welcome Home websites as they where at the time of each update. This is a fan-made effort with the hopes it will help those coming in late catch up with the story or to help review the story as it was for a refresher at their leisure.
 
 Homepage: <https://github.com/WelcomeHomeYou/unofficial-welcome-home-collection>
 

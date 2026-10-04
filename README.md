@@ -11,7 +11,7 @@ This is the repository for a self-contained collection that contains Welcome Hom
 To run The Unofficial Welcome Home Collection, you need to pair this application with a pack of assets designed specifically to integrate with it. A decent amount of effort has been made to keep this repository free from the majority of that copyrighted content, and (at least for now), it won't contain a link to the place you can find it.
 
 
-##(All this below here is from the original developers of The Unofficial Homestuck Collection!)
+## (All this below here is from the original developers of The Unofficial Homestuck Collection!)
 ## Some details on the codebase
 
 This application runs entirely in Electron + Vue, with very little else going on. Although it functions in a manner very similar to a web browser, everything is running in what I would charitably describe as a "creative" fashion. I am by no means an expert, and while I'd love to say I always had good practices in mind while developing this, I largely didn't even know what a good practice *was* for a decent chunk of it.

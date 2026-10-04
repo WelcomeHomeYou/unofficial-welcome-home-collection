@@ -1,29 +1,22 @@
-# Notice
-
-The Unofficial Homestuck Collection is currently in maintenance mode. 
-It is an offline archive, so it is still fully-functional if you have the necessary files, but I am not currently planning continued feature development. 
-
-The surrounding websites have been taken down by legal action initiated by Homestuck, Inc. and The Homestuck Independent Creative Union as part of an attempted hostile takeover. [More details here.](https://blog.giovanh.com/blog/2025/08/08/uhc-end/)
-
-There have currently been no legal attacks on this, the codebase for the reader itself, and it will remain available if possible.
-
-<!-- The question of whether this repository can remain up or maintained without the threat of retaliatory legal action is under active investigation.  -->
-
 # Readme
 
-![The Unofficial Homestuck Collection](src/assets/collection_logo.png)
+The Official Welcome Home Website: https://welcomehomerestorationproject.net/
 
-Homepage: <https://homestuck.giovanh.com/unofficial-homestuck-collection/>
+This is an attempt at borrowing the good ideas used for [The Unofficial Homestuck Collection](https://homestuck.giovanh.com/unofficial-homestuck-collection/) as a basis for rebuilding the Welcome Home websites as they where at the time of each update. This is a fan-made effort to help those coming in late catch up with the story or to help review the story as it was for a refresher at their leisure.
 
-This is the repository for a self-contained collection that contains Homestuck (with Flash elements fully intact), the other MS Paint Adventures, official Homestuck side-stories, and a variety of goodies for the enquiring reader, as well as a variety of unintrusive enhancements to the overall presentation, both for quality and convenience.
+Homepage: <https://github.com/WelcomeHomeYou/unofficial-welcome-home-collection>
 
-To run The Unofficial Homestuck Collection, you need to pair this application with a pack of assets designed specifically to integrate with it. A decent amount of effort has been made to keep this repository free from the majority of that copyrighted content, and (at least for now), it won't contain a link to the place you can find it.
+This is the repository for a self-contained collection that contains Welcome Home (with puzzle elements fully intact), the other website, and a variety of goodies for the enquiring reader, as well as a variety of unintrusive enhancements to the overall presentation, both for quality and convenience.
 
+To run The Unofficial Welcome Home Collection, you need to pair this application with a pack of assets designed specifically to integrate with it. A decent amount of effort has been made to keep this repository free from the majority of that copyrighted content, and (at least for now), it won't contain a link to the place you can find it.
+
+
+##(All this below here is from the original developers of The Unofficial Homestuck Collection!)
 ## Some details on the codebase
 
 This application runs entirely in Electron + Vue, with very little else going on. Although it functions in a manner very similar to a web browser, everything is running in what I would charitably describe as a "creative" fashion. I am by no means an expert, and while I'd love to say I always had good practices in mind while developing this, I largely didn't even know what a good practice *was* for a decent chunk of it.
 
-So what I'm saying is this: You're welcome to peruse the codebase, fork it, make and suggest changes, or use it in any way you see fit. Just uh... don't expect it to be well formed or documented in any of the ways that really count. If you want to make some changes and my code is causing you physical discomfort, [try asking around our Discord server.](https://discord.gg/43QHASFC2X) Someone should be able to help out!
+So what I'm saying is this: You're welcome to peruse the codebase, fork it, make and suggest changes, or use it in any way you see fit. Just uh... don't expect it to be well formed or documented in any of the ways that really count.
 
 Building a development version of TUHC requires NPM (Node 14.18), Yarn, `make`, and `tar`.
 
